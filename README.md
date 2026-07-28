@@ -104,4 +104,4 @@ The top 5 states by order count were analyzed for total sales and average profit
 
 ## Author
 
-**Kulsum** — B.S. Statistics student | [GitHub](https://github.com/kulsum82)
+**Umme Kulsum** — B.S. Statistics student | [GitHub](https://github.com/kulsum82)
