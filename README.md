@@ -1,4 +1,4 @@
-# Growth Data Analysis
+# Sales Growth and Business Performance Analysis
 
 A sales and business performance analysis project built on order-level retail data. The project examines category-wise profitability, monthly sales target trends, and regional performance across states, using Python for data cleaning, aggregation, and visualization.
 
